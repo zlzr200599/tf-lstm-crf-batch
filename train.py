@@ -122,7 +122,7 @@ parameters['lr_method'] = opts.lr_method
 parameters['lr_rate'] = opts.lr_rate
 parameters['clip_norm'] = opts.clip_norm
 parameters['is_train'] = opts.mode
-parameters['update'] = opts.update_scheme
+#parameters['update'] = opts.update_scheme
 parameters['batch_size'] = opts.batch_size
 
 # Check parameters validity
